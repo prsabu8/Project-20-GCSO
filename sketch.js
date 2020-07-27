@@ -9,7 +9,7 @@ function setup() {
   wall.shapeColor = color(80,80,80);
 
   speed = random(55, 90);
-  weight = rabdom(400,1500); 
+  weight = random(400,1500); 
 }
 
 function draw() {
